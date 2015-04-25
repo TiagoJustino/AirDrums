@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{79391AC5-8752-B4CC-F33F-BB9EB1094377}</ProjectGuid>
+	<ProjectGuid>{BB1B7A66-4DF0-87FD-4BFD-C6818B570BC6}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -46,18 +46,18 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Standard Assets\Scripts\General Scripts\ActivateTrigger.cs" />
-     <Compile Include="Assets\Standard Assets\Scripts\Utility Scripts\CombineChildren.cs" />
-     <Compile Include="Assets\Standard Assets\Scripts\Utility Scripts\MeshCombineUtility.cs" />
-     <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
+     <Compile Include="assets\standard assets\scripts\General Scripts\ActivateTrigger.cs" />
+     <Compile Include="assets\standard assets\scripts\Utility Scripts\CombineChildren.cs" />
+     <Compile Include="assets\standard assets\scripts\Utility Scripts\MeshCombineUtility.cs" />
+     <None Include="assets\standard assets\particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.3/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="OpenNI.Net">
- <HintPath>C:/Users/tony/Documents/New Unity Project/Assets/ZigFu/Scripts/_Internal/OpenNI.Net.dll</HintPath>
+ <HintPath>C:/Users/tony/Documents/AirDrums/unity_zigfu_kinect/Assets/zigfu/scripts/_Internal/OpenNI.Net.dll</HintPath>
  </Reference>
  <Reference Include="ZDK">
- <HintPath>C:/Users/tony/Documents/New Unity Project/Assets/ZigFu/Scripts/_Internal/ZDK.dll</HintPath>
+ <HintPath>C:/Users/tony/Documents/AirDrums/unity_zigfu_kinect/Assets/zigfu/scripts/_Internal/ZDK.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
