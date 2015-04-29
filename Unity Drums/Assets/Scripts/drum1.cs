@@ -9,17 +9,16 @@ public class drum1 : MonoBehaviour
 
 	// Use this for initialization
 	void Start () {
-	
 	}
 	
 	// Update is called once per frame
 	void Update () 
 	{
-		renderer.material = defaultMaterial;
+		GetComponent<Renderer>().material = defaultMaterial;
 		if (Input.GetKeyDown (KeyCode.Q)) 
 		{
-			renderer.material = playMaterial;
-			audio.Play();
+			GetComponent<Renderer>().material = playMaterial;
+			GetComponent<AudioSource>().Play();
 		}
 	}
 }

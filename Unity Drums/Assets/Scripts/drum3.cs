@@ -15,11 +15,11 @@ public class drum3 : MonoBehaviour
 	// Update is called once per frame
 	void Update () 
 	{
-		renderer.material = defaultMaterial;
+		GetComponent<Renderer>().material = defaultMaterial;
 		if (Input.GetKeyDown (KeyCode.E)) 
 		{
-			renderer.material = playMaterial;
-			audio.Play();
+			GetComponent<Renderer>().material = playMaterial;
+			GetComponent<AudioSource>().Play();
 		}
 	}
 }

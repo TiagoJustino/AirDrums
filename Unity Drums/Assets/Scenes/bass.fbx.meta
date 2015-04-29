@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: d2610aa141aee4938a2d16de924fcc49
+timeCreated: 1430098994
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Component#11_002
+    100004: Component#2_001
+    100006: Component#3_001
+    100008: Component#4_001
+    100010: Component#5_001
+    100012: Component#5_002
+    100014: Component#7_001
+    100016: Component#9_005
+    100018: Component#9_007
+    100020: sketchup-download200608261108382#3_002
+    100022: VRayCam001.Target
+    100024: VRayPlane001
+    100026: VRaySun001.Target
+    400000: //RootNode
+    400002: Component#11_002
+    400004: Component#2_001
+    400006: Component#3_001
+    400008: Component#4_001
+    400010: Component#5_001
+    400012: Component#5_002
+    400014: Component#7_001
+    400016: Component#9_005
+    400018: Component#9_007
+    400020: sketchup-download200608261108382#3_002
+    400022: VRayCam001.Target
+    400024: VRayPlane001
+    400026: VRaySun001.Target
+    2300000: Component#2_001
+    2300002: Component#3_001
+    2300004: Component#4_001
+    2300006: Component#5_001
+    2300008: Component#7_001
+    2300010: Component#9_005
+    2300012: Component#9_007
+    3300000: Component#2_001
+    3300002: Component#3_001
+    3300004: Component#4_001
+    3300006: Component#5_001
+    3300008: Component#7_001
+    3300010: Component#9_005
+    3300012: Component#9_007
+    4300000: Component#9_007
+    4300002: Component#9_005
+    4300004: Component#2_001
+    4300006: Component#7_001
+    4300008: Component#3_001
+    4300010: Component#4_001
+    4300012: Component#5_001
+    7400000: VRayCam001.Target|VRayCam001|Take 001|BaseLayer
+    7400002: VRayCam001.Target|VRaySun001|Take 001|BaseLayer
+    7400004: VRaySun001.Target|VRayCam001|Take 001|BaseLayer
+    7400006: VRaySun001.Target|VRaySun001|Take 001|BaseLayer
+    7400008: VRayPlane001|VRayCam001|Take 001|BaseLayer
+    7400010: VRayPlane001|VRaySun001|Take 001|BaseLayer
+    7400012: sketchup-download200608261108382#3_002|VRayCam001|Take 001|BaseLayer
+    7400014: sketchup-download200608261108382#3_002|VRaySun001|Take 001|BaseLayer
+    7400016: Component#11_002|VRayCam001|Take 001|BaseLayer
+    7400018: Component#11_002|VRaySun001|Take 001|BaseLayer
+    7400020: Component#9_007|VRayCam001|Take 001|BaseLayer
+    7400022: Component#9_007|VRaySun001|Take 001|BaseLayer
+    7400024: Component#9_005|VRayCam001|Take 001|BaseLayer
+    7400026: Component#9_005|VRaySun001|Take 001|BaseLayer
+    7400028: Component#2_001|VRayCam001|Take 001|BaseLayer
+    7400030: Component#2_001|VRaySun001|Take 001|BaseLayer
+    7400032: Component#7_001|VRayCam001|Take 001|BaseLayer
+    7400034: Component#7_001|VRaySun001|Take 001|BaseLayer
+    7400036: Component#3_001|VRayCam001|Take 001|BaseLayer
+    7400038: Component#3_001|VRaySun001|Take 001|BaseLayer
+    7400040: Component#4_001|VRayCam001|Take 001|BaseLayer
+    7400042: Component#4_001|VRaySun001|Take 001|BaseLayer
+    7400044: Component#5_002|VRayCam001|Take 001|BaseLayer
+    7400046: Component#5_002|VRaySun001|Take 001|BaseLayer
+    7400048: Component#5_001|VRayCam001|Take 001|BaseLayer
+    7400050: Component#5_001|VRaySun001|Take 001|BaseLayer
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

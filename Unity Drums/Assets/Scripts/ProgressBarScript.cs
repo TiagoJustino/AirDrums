@@ -9,7 +9,7 @@ public class ProgressBarScript : MonoBehaviour {
 	// Use this for initialization
 	void Start () 
 	{
-		audio.Play();
+		GetComponent<AudioSource>().Play();
 	}
 	
 	// Update is called once per frame
@@ -24,6 +24,6 @@ public class ProgressBarScript : MonoBehaviour {
 			transform.Translate(Vector3.right * moveBar);
 		}
 		else
-			audio.Stop();
+			GetComponent<AudioSource>().Stop();
 	}
 }
