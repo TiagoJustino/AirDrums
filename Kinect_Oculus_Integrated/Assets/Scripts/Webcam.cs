@@ -15,7 +15,8 @@ public class Webcam : MonoBehaviour
 		print ("devices: " + devices.Length);
 		if (devices.Length > 1)
 		{
-			webcamTexture.deviceName = devices [1].name;
+			// webcamTexture.deviceName = devices [1].name;
+			webcamTexture.deviceName = devices [0].name;
 		}
 		else
 		{
