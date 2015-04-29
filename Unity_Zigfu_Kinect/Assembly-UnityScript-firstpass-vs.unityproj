@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{58C5B869-3E24-F414-F291-CF2807C4649F}</ProjectGuid>
+	<ProjectGuid>{F45AF33E-7605-F0AB-2CA5-E76213645973}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -46,19 +46,24 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="assets\standard assets\scripts\Camera Scripts\MouseOrbit.js" />
-     <Compile Include="assets\standard assets\scripts\Camera Scripts\SmoothFollow.js" />
-     <Compile Include="assets\standard assets\scripts\Camera Scripts\SmoothLookAt.js" />
-     <Compile Include="assets\standard assets\scripts\General Scripts\DragRigidbody.js" />
-     <None Include="assets\standard assets\particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
+     <Compile Include="Assets\Standard Assets\Scripts\Camera Scripts\MouseOrbit.js" />
+     <Compile Include="Assets\Standard Assets\Scripts\Camera Scripts\SmoothFollow.js" />
+     <Compile Include="Assets\Standard Assets\Scripts\Camera Scripts\SmoothLookAt.js" />
+     <Compile Include="Assets\Standard Assets\Scripts\General Scripts\DragRigidbody.js" />
+     <None Include="Assets\Plugins\donotdelete.txt" />
+     <None Include="Assets\Plugins\x86_64\donotdelete.txt" />
+     <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
+     <None Include="Assets\OVR\Shaders\TextShader3D.shader" />
+     <None Include="Assets\OVR\Shaders\OVRGUIShader.shader" />
+     <None Include="Assets\Plugins\x86\donotdelete.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.3/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="OpenNI.Net">
- <HintPath>C:/Users/tony/Documents/AirDrums/unity_zigfu_kinect/Assets/zigfu/scripts/_Internal/OpenNI.Net.dll</HintPath>
+ <HintPath>C:/Users/Tiago/Documents/GitHub/AirDrums/Unity_Zigfu_Kinect/Assets/ZigFu/Scripts/_Internal/OpenNI.Net.dll</HintPath>
  </Reference>
  <Reference Include="ZDK">
- <HintPath>C:/Users/tony/Documents/AirDrums/unity_zigfu_kinect/Assets/zigfu/scripts/_Internal/ZDK.dll</HintPath>
+ <HintPath>C:/Users/Tiago/Documents/GitHub/AirDrums/Unity_Zigfu_Kinect/Assets/ZigFu/Scripts/_Internal/ZDK.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

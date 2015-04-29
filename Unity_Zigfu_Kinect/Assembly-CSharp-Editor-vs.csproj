@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{0993F659-71E5-6E65-7084-D1B9AE1D12EC}</ProjectGuid>
+	<ProjectGuid>{131E92A9-DE9F-1ABD-27DC-7F939ED78066}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -46,10 +46,19 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="assets\Editor\BuildScenes.cs" />
-     <None Include="assets\standard assets\particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
+     <Compile Include="Assets\Editor\BuildScenes.cs" />
+     <Compile Include="Assets\OVR\Editor\OVRBuild.cs" />
+     <Compile Include="Assets\OVR\Editor\OVRGameView.cs" />
+     <Compile Include="Assets\OVR\Editor\OVRPrefabs.cs" />
+     <Compile Include="Assets\OVR\Editor\OVRShimLoader.cs" />
+     <None Include="Assets\Plugins\donotdelete.txt" />
+     <None Include="Assets\Plugins\x86_64\donotdelete.txt" />
+     <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
+     <None Include="Assets\OVR\Shaders\TextShader3D.shader" />
+     <None Include="Assets\OVR\Shaders\OVRGUIShader.shader" />
+     <None Include="Assets\Plugins\x86\donotdelete.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
- <HintPath>C:/Users/tony/Documents/AirDrums/unity_zigfu_kinect/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ <HintPath>C:/Users/Tiago/Documents/GitHub/AirDrums/Unity_Zigfu_Kinect/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.3/UnityEngine.UI.dll</HintPath>
@@ -58,10 +67,10 @@
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.3/Editor/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="OpenNI.Net">
- <HintPath>C:/Users/tony/Documents/AirDrums/unity_zigfu_kinect/Assets/zigfu/scripts/_Internal/OpenNI.Net.dll</HintPath>
+ <HintPath>C:/Users/Tiago/Documents/GitHub/AirDrums/Unity_Zigfu_Kinect/Assets/ZigFu/Scripts/_Internal/OpenNI.Net.dll</HintPath>
  </Reference>
  <Reference Include="ZDK">
- <HintPath>C:/Users/tony/Documents/AirDrums/unity_zigfu_kinect/Assets/zigfu/scripts/_Internal/ZDK.dll</HintPath>
+ <HintPath>C:/Users/Tiago/Documents/GitHub/AirDrums/Unity_Zigfu_Kinect/Assets/ZigFu/Scripts/_Internal/ZDK.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
@@ -69,9 +78,9 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass-vs.csproj">
-      <Project>{BB1B7A66-4DF0-87FD-4BFD-C6818B570BC6}</Project>      <Name>Assembly-CSharp-firstpass-vs</Name>    </ProjectReference>
+      <Project>{7277BBB9-858A-0C27-1507-7FB5EAB1F357}</Project>      <Name>Assembly-CSharp-firstpass-vs</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp-vs.csproj">
-      <Project>{E96C6D33-EDEB-84C8-3043-E127EA92FB6A}</Project>      <Name>Assembly-CSharp-vs</Name>    </ProjectReference>
+      <Project>{39EC606A-0EC0-00A8-8A24-448E5471BF7A}</Project>      <Name>Assembly-CSharp-vs</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
