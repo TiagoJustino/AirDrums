@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Webcam.cs">
+    <Files>
+      <File FileName="..\Kinect_Oculus_Integrated\Assets\ZigFu\Scripts\UserEngagers\ZigEngageSingleUser.cs" Line="156" Column="1" />
+      <File FileName="Assets\Scripts\Webcam.cs" Line="18" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
