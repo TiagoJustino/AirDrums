@@ -1,0 +1,365 @@
+fileFormatVersion: 2
+guid: 24132ac7e2f062243a1d04a0afd942c1
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Component#16_001
+    100002: Component#6_001
+    100004: Cymabl Stand_005
+    100006: Cymabl Stand_006
+    100008: Group_084
+    100010: Group_085
+    100012: Group_089
+    100014: Group_090
+    100016: Group_091
+    100018: Group_092
+    100020: Group_093
+    100022: Group_094
+    100024: Group_097
+    100026: Group_098
+    100028: Group_099
+    100030: Group_100
+    100032: Group_101
+    100034: Group_102
+    100036: Group_103
+    100038: Group_104
+    100040: Group_105
+    100042: Group_106
+    100044: Group_107
+    100046: Group_108
+    100048: Group_110
+    100050: Group_111
+    100052: Group_112
+    100054: Group_113
+    100056: Group_114
+    100058: Group_115
+    100060: Group_116
+    100062: Group_117
+    100064: Group_118
+    100066: Group_119
+    100068: Group_120
+    100070: llave_023
+    100072: llave_024
+    100074: llave_025
+    100076: llave_026
+    100078: llave_027
+    100080: llave_028
+    100082: pata de goma_013
+    100084: pata de goma_015
+    100086: pata de goma_016
+    100088: pata de goma_017
+    100090: pata de goma_018
+    100092: //RootNode
+    100094: sketchup-download200608261108382_001
+    100096: sketchup-download200608261108382_003
+    400000: Component#16_001
+    400002: Component#6_001
+    400004: Cymabl Stand_005
+    400006: Cymabl Stand_006
+    400008: Group_084
+    400010: Group_085
+    400012: Group_089
+    400014: Group_090
+    400016: Group_091
+    400018: Group_092
+    400020: Group_093
+    400022: Group_094
+    400024: Group_097
+    400026: Group_098
+    400028: Group_099
+    400030: Group_100
+    400032: Group_101
+    400034: Group_102
+    400036: Group_103
+    400038: Group_104
+    400040: Group_105
+    400042: Group_106
+    400044: Group_107
+    400046: Group_108
+    400048: Group_110
+    400050: Group_111
+    400052: Group_112
+    400054: Group_113
+    400056: Group_114
+    400058: Group_115
+    400060: Group_116
+    400062: Group_117
+    400064: Group_118
+    400066: Group_119
+    400068: Group_120
+    400070: llave_023
+    400072: llave_024
+    400074: llave_025
+    400076: llave_026
+    400078: llave_027
+    400080: llave_028
+    400082: pata de goma_013
+    400084: pata de goma_015
+    400086: pata de goma_016
+    400088: pata de goma_017
+    400090: pata de goma_018
+    400092: //RootNode
+    400094: sketchup-download200608261108382_001
+    400096: sketchup-download200608261108382_003
+    2300000: Component#16_001
+    2300002: Component#6_001
+    2300004: Cymabl Stand_005
+    2300006: Group_085
+    2300008: Group_089
+    2300010: Group_090
+    2300012: Group_091
+    2300014: Group_093
+    2300016: Group_094
+    2300018: Group_097
+    2300020: Group_098
+    2300022: Group_099
+    2300024: Group_100
+    2300026: Group_101
+    2300028: Group_102
+    2300030: Group_103
+    2300032: Group_104
+    2300034: Group_105
+    2300036: Group_106
+    2300038: Group_107
+    2300040: Group_110
+    2300042: Group_111
+    2300044: Group_112
+    2300046: Group_113
+    2300048: Group_114
+    2300050: Group_115
+    2300052: Group_116
+    2300054: Group_118
+    2300056: Group_119
+    2300058: Group_120
+    2300060: llave_023
+    2300062: llave_025
+    2300064: llave_027
+    2300066: pata de goma_013
+    2300068: pata de goma_015
+    2300070: pata de goma_017
+    2300072: sketchup-download200608261108382_001
+    3300000: Component#16_001
+    3300002: Component#6_001
+    3300004: Cymabl Stand_005
+    3300006: Group_085
+    3300008: Group_089
+    3300010: Group_090
+    3300012: Group_091
+    3300014: Group_093
+    3300016: Group_094
+    3300018: Group_097
+    3300020: Group_098
+    3300022: Group_099
+    3300024: Group_100
+    3300026: Group_101
+    3300028: Group_102
+    3300030: Group_103
+    3300032: Group_104
+    3300034: Group_105
+    3300036: Group_106
+    3300038: Group_107
+    3300040: Group_110
+    3300042: Group_111
+    3300044: Group_112
+    3300046: Group_113
+    3300048: Group_114
+    3300050: Group_115
+    3300052: Group_116
+    3300054: Group_118
+    3300056: Group_119
+    3300058: Group_120
+    3300060: llave_023
+    3300062: llave_025
+    3300064: llave_027
+    3300066: pata de goma_013
+    3300068: pata de goma_015
+    3300070: pata de goma_017
+    3300072: sketchup-download200608261108382_001
+    4300000: llave_027
+    4300002: llave_025
+    4300004: llave_023
+    4300006: Group_120
+    4300008: Group_119
+    4300010: Group_118
+    4300012: Group_116
+    4300014: Group_115
+    4300016: Group_114
+    4300018: Group_113
+    4300020: Group_112
+    4300022: Group_111
+    4300024: Group_110
+    4300026: Group_107
+    4300028: Group_106
+    4300030: Group_105
+    4300032: Group_104
+    4300034: Group_103
+    4300036: Group_102
+    4300038: Group_101
+    4300040: Group_100
+    4300042: Group_099
+    4300044: Group_098
+    4300046: Group_097
+    4300048: pata de goma_017
+    4300050: Group_094
+    4300052: Group_093
+    4300054: Group_091
+    4300056: pata de goma_015
+    4300058: Group_090
+    4300060: Group_089
+    4300062: pata de goma_013
+    4300064: Group_085
+    4300066: Cymabl Stand_005
+    4300068: Component#16_001
+    4300070: Component#6_001
+    4300072: sketchup-download200608261108382_001
+    7400000: llave_028|VRayCam001|Take 001|BaseLayer
+    7400002: llave_028|VRaySun001|Take 001|BaseLayer
+    7400004: llave_027|VRayCam001|Take 001|BaseLayer
+    7400006: llave_027|VRaySun001|Take 001|BaseLayer
+    7400008: llave_026|VRayCam001|Take 001|BaseLayer
+    7400010: llave_026|VRaySun001|Take 001|BaseLayer
+    7400012: llave_025|VRayCam001|Take 001|BaseLayer
+    7400014: llave_025|VRaySun001|Take 001|BaseLayer
+    7400016: llave_024|VRayCam001|Take 001|BaseLayer
+    7400018: llave_024|VRaySun001|Take 001|BaseLayer
+    7400020: llave_023|VRayCam001|Take 001|BaseLayer
+    7400022: llave_023|VRaySun001|Take 001|BaseLayer
+    7400024: Group_120|VRayCam001|Take 001|BaseLayer
+    7400026: Group_120|VRaySun001|Take 001|BaseLayer
+    7400028: Group_119|VRayCam001|Take 001|BaseLayer
+    7400030: Group_119|VRaySun001|Take 001|BaseLayer
+    7400032: Group_118|VRayCam001|Take 001|BaseLayer
+    7400034: Group_118|VRaySun001|Take 001|BaseLayer
+    7400036: Group_117|VRayCam001|Take 001|BaseLayer
+    7400038: Group_117|VRaySun001|Take 001|BaseLayer
+    7400040: Group_116|VRayCam001|Take 001|BaseLayer
+    7400042: Group_116|VRaySun001|Take 001|BaseLayer
+    7400044: Group_115|VRayCam001|Take 001|BaseLayer
+    7400046: Group_115|VRaySun001|Take 001|BaseLayer
+    7400048: Group_114|VRayCam001|Take 001|BaseLayer
+    7400050: Group_114|VRaySun001|Take 001|BaseLayer
+    7400052: Group_113|VRayCam001|Take 001|BaseLayer
+    7400054: Group_113|VRaySun001|Take 001|BaseLayer
+    7400056: Group_112|VRayCam001|Take 001|BaseLayer
+    7400058: Group_112|VRaySun001|Take 001|BaseLayer
+    7400060: Group_111|VRayCam001|Take 001|BaseLayer
+    7400062: Group_111|VRaySun001|Take 001|BaseLayer
+    7400064: Group_110|VRayCam001|Take 001|BaseLayer
+    7400066: Group_110|VRaySun001|Take 001|BaseLayer
+    7400068: Group_108|VRayCam001|Take 001|BaseLayer
+    7400070: Group_108|VRaySun001|Take 001|BaseLayer
+    7400072: Group_107|VRayCam001|Take 001|BaseLayer
+    7400074: Group_107|VRaySun001|Take 001|BaseLayer
+    7400076: Group_106|VRayCam001|Take 001|BaseLayer
+    7400078: Group_106|VRaySun001|Take 001|BaseLayer
+    7400080: Group_105|VRayCam001|Take 001|BaseLayer
+    7400082: Group_105|VRaySun001|Take 001|BaseLayer
+    7400084: Group_104|VRayCam001|Take 001|BaseLayer
+    7400086: Group_104|VRaySun001|Take 001|BaseLayer
+    7400088: Group_103|VRayCam001|Take 001|BaseLayer
+    7400090: Group_103|VRaySun001|Take 001|BaseLayer
+    7400092: Group_102|VRayCam001|Take 001|BaseLayer
+    7400094: Group_102|VRaySun001|Take 001|BaseLayer
+    7400096: Group_101|VRayCam001|Take 001|BaseLayer
+    7400098: Group_101|VRaySun001|Take 001|BaseLayer
+    7400100: Group_100|VRayCam001|Take 001|BaseLayer
+    7400102: Group_100|VRaySun001|Take 001|BaseLayer
+    7400104: Group_099|VRayCam001|Take 001|BaseLayer
+    7400106: Group_099|VRaySun001|Take 001|BaseLayer
+    7400108: Group_098|VRayCam001|Take 001|BaseLayer
+    7400110: Group_098|VRaySun001|Take 001|BaseLayer
+    7400112: Group_097|VRayCam001|Take 001|BaseLayer
+    7400114: Group_097|VRaySun001|Take 001|BaseLayer
+    7400116: pata de goma_018|VRayCam001|Take 001|BaseLayer
+    7400118: pata de goma_018|VRaySun001|Take 001|BaseLayer
+    7400120: pata de goma_017|VRayCam001|Take 001|BaseLayer
+    7400122: pata de goma_017|VRaySun001|Take 001|BaseLayer
+    7400124: Group_094|VRayCam001|Take 001|BaseLayer
+    7400126: Group_094|VRaySun001|Take 001|BaseLayer
+    7400128: Group_093|VRayCam001|Take 001|BaseLayer
+    7400130: Group_093|VRaySun001|Take 001|BaseLayer
+    7400132: Group_092|VRayCam001|Take 001|BaseLayer
+    7400134: Group_092|VRaySun001|Take 001|BaseLayer
+    7400136: Group_091|VRayCam001|Take 001|BaseLayer
+    7400138: Group_091|VRaySun001|Take 001|BaseLayer
+    7400140: pata de goma_016|VRayCam001|Take 001|BaseLayer
+    7400142: pata de goma_016|VRaySun001|Take 001|BaseLayer
+    7400144: pata de goma_015|VRayCam001|Take 001|BaseLayer
+    7400146: pata de goma_015|VRaySun001|Take 001|BaseLayer
+    7400148: Group_090|VRayCam001|Take 001|BaseLayer
+    7400150: Group_090|VRaySun001|Take 001|BaseLayer
+    7400152: Group_089|VRayCam001|Take 001|BaseLayer
+    7400154: Group_089|VRaySun001|Take 001|BaseLayer
+    7400156: pata de goma_013|VRayCam001|Take 001|BaseLayer
+    7400158: pata de goma_013|VRaySun001|Take 001|BaseLayer
+    7400160: Group_085|VRayCam001|Take 001|BaseLayer
+    7400162: Group_085|VRaySun001|Take 001|BaseLayer
+    7400164: Group_084|VRayCam001|Take 001|BaseLayer
+    7400166: Group_084|VRaySun001|Take 001|BaseLayer
+    7400168: Cymabl Stand_006|VRayCam001|Take 001|BaseLayer
+    7400170: Cymabl Stand_006|VRaySun001|Take 001|BaseLayer
+    7400172: Cymabl Stand_005|VRayCam001|Take 001|BaseLayer
+    7400174: Cymabl Stand_005|VRaySun001|Take 001|BaseLayer
+    7400176: Component#16_001|VRayCam001|Take 001|BaseLayer
+    7400178: Component#16_001|VRaySun001|Take 001|BaseLayer
+    7400180: Component#6_001|VRayCam001|Take 001|BaseLayer
+    7400182: Component#6_001|VRaySun001|Take 001|BaseLayer
+    7400184: sketchup-download200608261108382_003|VRayCam001|Take 001|BaseLayer
+    7400186: sketchup-download200608261108382_003|VRaySun001|Take 001|BaseLayer
+    7400188: sketchup-download200608261108382_001|VRayCam001|Take 001|BaseLayer
+    7400190: sketchup-download200608261108382_001|VRaySun001|Take 001|BaseLayer
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
