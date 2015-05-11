@@ -1,0 +1,25 @@
+Unity Player [version: Unity 4.6.3f1_4753d8b6ef2b]
+
+OculusPlugin.dll caused an Access Violation (0xc0000005)
+  in module OculusPlugin.dll at 0033:9e672390.
+
+Error occurred at 2015-05-11_005244.
+C:\Users\Tiago\Documents\GitHub\AirDrums\VR Drums\build\ARdrums.exe, run by Tiago.
+47% memory in use.
+8085 MB physical memory [4210 MB free].
+16277 MB paging file [11576 MB free].
+134217728 MB user address space [134217395 MB free].
+Read from location 00000000 caused an access violation.
+
+Context:
+RDI:    0x079a92a0  RSI: 0x00000000  RAX:   0x00000000
+RBX:    0x00000000  RCX: 0x0f57dbd0  RDX:   0x00100012
+RIP:    0x9e672390  RBP: 0x006cf0c9  SegCs: 0x00000033
+EFlags: 0x00010202  RSP: 0x006cf030  SegSs: 0x0000002b
+R8:    0x00000001  R9: 0x00000019  R10:   0x0f57d4c0
+R11:    0x00000000  R12: 0x00000053  R13:   0xffffffff
+R14:    0x9e70b0b8  R15: 0x00000001
+
+Bytes at CS:EIP:
+48 8b 00 48 89 41 10 c7 41 18 08 00 00 00 48 8d 
+== [end of error.log] ==

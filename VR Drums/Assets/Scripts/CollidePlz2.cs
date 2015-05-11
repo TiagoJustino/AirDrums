@@ -19,6 +19,7 @@ public class CollidePlz2 : MonoBehaviour {
 		if (collisionInfo.relativeVelocity.magnitude != 0)
 		{
 			//If the hit is going downwards
+			print(collisionInfo.relativeVelocity);
 			if(collisionInfo.relativeVelocity.y < 0)
 				audio.Play ();
 		}
