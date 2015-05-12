@@ -16,11 +16,11 @@ public class tomtom : MonoBehaviour
 	// Update is called once per frame
 	void Update () 
 	{
-		/*renderer.material = defaultMaterial;
+		//renderer.material = defaultMaterial;
 		if (Input.GetKeyDown (KeyCode.W))
 		{
 			playDrum();
-		}*/
+		}
 	}
 
 	void OnCollisionEnter(Collision collisionInfo)

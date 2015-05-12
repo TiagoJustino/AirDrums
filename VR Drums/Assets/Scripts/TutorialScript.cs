@@ -23,14 +23,14 @@ public class TutorialScript : MonoBehaviour {
         notePosition = new Vector3[10];
         DrumType = new string[10];
         drumType = "";
-        initialPosition[0] = new Vector3(3.432547f, 3.604739f, 7.996204f); //hihat 1
-        initialPosition[1] = new Vector3(2.492673f, 3.636118f, 7.996204f); //hihat 2
-        initialPosition[2] = new Vector3(1.507733f, 3.636118f, 7.996204f); //hihat 3
-        initialPosition[3] = new Vector3(0.5323566f, 3.621357f, 7.996204f); //hihat 4
-        initialPosition[4] = new Vector3(-0.4145995f, 3.606776f, 7.996204f); //hihat 5
-        initialPosition[5] = new Vector3(-1.344433f, 3.610593f, 7.996204f); //hihat 6
-        initialPosition[6] = new Vector3(-2.348921f, 3.596923f, 7.996204f); //hihat 7
-        initialPosition[7] = new Vector3(-3.32729f, 3.610302f, 7.996204f); //hihat 8
+        initialPosition[0] = new Vector3(0.693f, 1.261f, 2.1f); //hihat 8
+        initialPosition[1] = new Vector3(0.476f, 1.261f, 2.1f); //hihat 7
+        initialPosition[2] = new Vector3(0.264f, 1.261f, 2.1f); //hihat 6
+        initialPosition[3] = new Vector3(0.057f, 1.261f, 2.1f); //hihat 5
+        initialPosition[4] = new Vector3(-0.155f, 1.261f, 2.1f); //hihat 4
+        initialPosition[5] = new Vector3(-0.357f, 1.261f, 2.1f); //hihat 3
+        initialPosition[6] = new Vector3(-0.579f, 1.261f, 2.1f); //hihat 2
+        initialPosition[7] = new Vector3(-0.801f, 1.261f, 2.1f); //hihat 1
 
         initialPosition[8] = new Vector3(3.432547f, 3.136315f, 7.996204f); //snare 1
         initialPosition[9] = new Vector3(2.492673f, 3.153215f, 7.996204f); //snare 2
@@ -216,7 +216,7 @@ public class TutorialScript : MonoBehaviour {
     		float moveBar = Barspeed * Time.deltaTime;
     		
     		//move the bar
-    		if(transform.position.x<4.5)
+    		if(transform.position.x<0.9)
     		{
     			transform.Translate(Vector3.right * moveBar);
     		}

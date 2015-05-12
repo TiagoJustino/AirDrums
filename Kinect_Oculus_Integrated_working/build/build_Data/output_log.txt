@@ -1,0 +1,204 @@
+Initialize engine version: 4.6.3f1 (4753d8b6ef2b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 820M          (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     1996 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Tiago\Documents\GitHub\AirDrums\Kinect_Oculus_Integrated_working\build\build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Tiago\Documents\GitHub\AirDrums\Kinect_Oculus_Integrated_working\build\build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Tiago\Documents\GitHub\AirDrums\Kinect_Oculus_Integrated_working\build\build_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Tiago\Documents\GitHub\AirDrums\Kinect_Oculus_Integrated_working\build\build_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Tiago\Documents\GitHub\AirDrums\Kinect_Oculus_Integrated_working\build\build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Tiago\Documents\GitHub\AirDrums\Kinect_Oculus_Integrated_working\build\build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Tiago\Documents\GitHub\AirDrums\Kinect_Oculus_Integrated_working\build\build_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Tiago\Documents\GitHub\AirDrums\Kinect_Oculus_Integrated_working\build\build_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Tiago\Documents\GitHub\AirDrums\Kinect_Oculus_Integrated_working\build\build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Tiago\Documents\GitHub\AirDrums\Kinect_Oculus_Integrated_working\build\build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Tiago\Documents\GitHub\AirDrums\Kinect_Oculus_Integrated_working\build\build_Data\Managed\OpenNI.Net.dll (this message is harmless)
+Loading C:\Users\Tiago\Documents\GitHub\AirDrums\Kinect_Oculus_Integrated_working\build\build_Data\Managed\OpenNI.Net.dll into Unity Child Domain
+Platform assembly: C:\Users\Tiago\Documents\GitHub\AirDrums\Kinect_Oculus_Integrated_working\build\build_Data\Managed\ZDK.dll (this message is harmless)
+Loading C:\Users\Tiago\Documents\GitHub\AirDrums\Kinect_Oculus_Integrated_working\build\build_Data\Managed\ZDK.dll into Unity Child Domain
+- Completed reload, in  0.688 seconds
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+Platform assembly: C:\Users\Tiago\Documents\GitHub\AirDrums\Kinect_Oculus_Integrated_working\build\build_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Tiago\Documents\GitHub\AirDrums\Kinect_Oculus_Integrated_working\build\build_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 4.442611 ms
+Trying to open Kinect sensor using MS Kinect SDK
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Note: Microsoft's Kinect SDK can only be used in one process at a time. Please quit any other processes using the Microsoft Kinect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+This also means you must quit the Unity Editor before using any compiled product
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Exception while attempting to start reader:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Error initing Kinect SDK: 2197880852
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+failed opening Kinect SDK sensor (if you intend to use the Microsoft Kinect SDK, please unplug the sensor, restart Unity and try again)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Trying to open sensor using OpenNI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\OpenNI
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/libOpenNI
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\libOpenNI
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/libOpenNI
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\OpenNI
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/libOpenNI
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\libOpenNI
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/libOpenNI
+System.DllNotFoundException: OpenNI
+  at (wrapper managed-to-native) OpenNI.SafeNativeMethods:xnInit (intptr&)
+  at OpenNI.Context.Init () [0x00000] in <filename unknown>:0 
+  at OpenNI.Context..ctor () [0x00000] in <filename unknown>:0 
+  at ZigInputOpenNI.Init (.ZigInputSettings settings) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Exception while attempting to start reader:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Error opening OpenNI context: OpenNI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+failed opening sensor using OpenNI version 1, attempting to open the sensor with OpenNI 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\OpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\OpenNI2
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/libOpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\libOpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/libOpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\OpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\OpenNI2
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/libOpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\libOpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/libOpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/NiTE2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\NiTE2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/NiTE2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/NiTE2
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\NiTE2
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/NiTE2
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/libNiTE2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\libNiTE2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/libNiTE2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\OpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\OpenNI2
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/libOpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\libOpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/libOpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\OpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\OpenNI2
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/libOpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\libOpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/libOpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\OpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\OpenNI2
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/libOpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\libOpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/libOpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\OpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\OpenNI2
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/libOpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\libOpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/libOpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\OpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\OpenNI2
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/libOpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\libOpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/libOpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/NiTE2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\NiTE2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/NiTE2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/NiTE2
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\NiTE2
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/NiTE2
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/libNiTE2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\libNiTE2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/libNiTE2.dll
+ZigInputOpenNI2 Init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\OpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\OpenNI2
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/libOpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/.\libOpenNI2.dll
+Fallback handler could not load library C:/Users/Tiago/Documents/GitHub/AirDrums/Kinect_Oculus_Integrated_working/build/build_Data/Mono/libOpenNI2.dll
+Exception while attempting to start reader:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+OpenNI2.dll
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+failed opening sensor using OpenNI version 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Failed to load driver and middleware, review warnings above for specific exception messages from middleware
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+devices: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+

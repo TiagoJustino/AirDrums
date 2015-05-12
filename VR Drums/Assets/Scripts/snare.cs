@@ -15,11 +15,11 @@ public class snare : MonoBehaviour
 	// Update is called once per frame
 	void Update () 
 	{
-		/*renderer.material = defaultMaterial;
+		//renderer.material = defaultMaterial;
 		if (Input.GetKeyDown (KeyCode.Q)) // plays the snare
 		{
 			playDrum();
-		}*/
+		}
 	}
 
 	void OnCollisionEnter(Collision collisionInfo)

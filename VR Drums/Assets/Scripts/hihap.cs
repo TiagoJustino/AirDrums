@@ -16,11 +16,11 @@ public class hihap : MonoBehaviour
 	// Update is called once per frame
 	void Update () 
 	{
-		/*renderer.material = defaultMaterial;
+		//renderer.material = defaultMaterial;
 		if (Input.GetKeyDown (KeyCode.E)) // plays the hihap
 		{
 			playDrum();
-		}*/
+		}
 	}
 
 	void OnCollisionEnter(Collision collisionInfo)
